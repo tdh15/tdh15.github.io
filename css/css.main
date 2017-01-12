@@ -27,7 +27,7 @@ h4 {
 }
 img {
   border-radius:8px;
-  max-width:50%;
+  max-width:25%;
 }
 
 #footer {
